@@ -12,19 +12,11 @@
 
     <title><?php the_title(); ?></title>
 
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri() . '/public/globalCss.css' ?>">
+    <!-- <link rel="stylesheet" href="<?php echo get_template_directory_uri() . '/public/globalCss.css' ?>"> -->
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri() . '/public/tailwind.css' ?>">
 
 </head>
 
 <body>
 
-    <!-- Navbar -->
-    <?php include TEMPLATEPATH . '/shared/component.php'; ?>
-
-    <div class="nav pt-5 pl-5">
-        <ul>
-            <li><a href="<?php the_permalink(10) ?>">Home</a></li>
-            <li><a href="<?php the_permalink(2) ?>">Page Template</a></li>
-            <li><a href="<?php the_permalink(14) ?>">My Component</a></li>
-        </ul>
-    </div>
+   
