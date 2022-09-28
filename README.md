@@ -13,9 +13,9 @@
 - 2 - Create page js on `/src/pages/`
 - 3 - Create React App for page in `/src/pages/App/App.js`
 - 4 - Edit webpack.config.js to include the new app 
-- 3 - Create a blank page on WP using a page template  
-- 4 - Edit `src/index.js` to build and test app using reatc-scripts
-- 5 - Run `npm run build` to build react app 
+- 5 - Create a blank page on WP using a page template  
+- 6 - Edit `src/index.js` to build and test app using reatc-scripts
+- 7 - Run `npm run build` to build react app 
 
 **_Note:_** React Apps is setup using [mui](https://mui.com/material-ui/getting-started/overview/) and [tailwind css](https://tailwindui.com/)
 
