@@ -2,7 +2,7 @@
   "name": "wpwebpack",
   "version": "1.0.1",
   "description": "wp__webPack",
-  "author": "Giacomo Corallini - Frontend Engineer",
+  "author": "Marco Donati - https://github.com/m4d0/wp_react",
   "license": "ISC",
   "type": "module",
   "scripts": {
