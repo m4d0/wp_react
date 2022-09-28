@@ -6,8 +6,8 @@ import MiniCssExtractPlugin from 'mini-css-extract-plugin'
 // import { ENV } from './config';
 
 const entryPoint = {
-  index: './src/index.js',
-  homepage: './src/pages/home/HomePage.js',
+  homepage: './src/pages/homepage.js',
+  aboutpage: './src/pages/aboutpage.js',
   globalCss: './src/global.scss',
 }
 
