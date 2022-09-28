@@ -7,7 +7,7 @@ import MiniCssExtractPlugin from 'mini-css-extract-plugin'
 
 const entryPoint = {
   index: './src/index.js',
-  about: './src/pages/about/about.js',
+  homepage: './src/pages/home/HomePage.js',
   globalCss: './src/global.scss',
 }
 

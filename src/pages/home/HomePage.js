@@ -14,9 +14,9 @@ import {
   useScrollTrigger,
   CssBaseline,
 } from '@mui/material'
-import Header from './shared/components/Header/Header.js'
+import Header from '../../shared/components/Header/Header.js'
 
-function App() {
+function HomePage() {
   const [state, setstate] = useState('test')
 
   return (
@@ -72,4 +72,4 @@ function App() {
   )
 }
 
-export default App
+export default HomePage

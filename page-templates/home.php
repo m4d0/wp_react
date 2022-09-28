@@ -4,4 +4,4 @@
 
 
 
-<script src="<?php echo get_template_directory_uri() . '/public/app.js' ?>"></script>
+<script src="<?php echo get_template_directory_uri() . '/public/homepage.js' ?>"></script>
