@@ -9,7 +9,6 @@ const entryPoint = {
   index: './src/index.js',
   about: './src/pages/about/about.js',
   globalCss: './src/global.scss',
-  app: './src/index.js',
 }
 
 const __filename = fileURLToPath(import.meta.url)
